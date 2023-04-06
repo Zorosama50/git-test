@@ -1,0 +1,13 @@
+{
+    "name": "git/test",
+    "description": "This is git test",
+    "type": "project",
+    "license": "gpl",
+    "autoload": {
+        "psr-4": {
+            "Git\\Test\\": "includes/"
+        }
+    },
+    "minimum-stability": "stable",
+    "require": {}
+}
